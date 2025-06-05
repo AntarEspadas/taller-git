@@ -1,1 +1,1 @@
-https://github.com/yayojair/ejemplotaller.git
+https://github.com/yayojair/ejemplo-git.git
